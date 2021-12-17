@@ -1,4 +1,4 @@
-- 🔭 Hi, I’m @muharjunn! Front-End Developer 🎨
+- 🔭 Hi, I’m @muharjunn! Front-End Developer
 - ⚡ I’m interested in tech, videogames and IoT ! Always ready to learn more
 - 🌱 I’m currently learning ReactJs
 - 👯 I’m looking to collaborate on amazing projects in the future and be part of an incredible team!
