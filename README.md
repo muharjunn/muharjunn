@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning ReactJs
 - 👯 I’m looking to collaborate on amazing projects in the future and be part of an incredible team!
 - 🤔 I’m looking for help with ...
-- 📫 How to reach me -> DM on instagram! 💌 @muh_arjun or via LinkedIn (Muhammad Arjun Wijanarko)
+- 📫 How to reach me -> DM on instagram @muh_arjun or via LinkedIn (Muhammad Arjun Wijanarko)
